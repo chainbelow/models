@@ -27,7 +27,7 @@ concept Loan {
     o String[] exchangeId optional
     o String clearanceSystem optional
     o String definition optional
-    o String lein optional         
+    o String lien optional         
     o String facilityType optional
     o DateTime maturity
     o DateTime creditAgreementDate
